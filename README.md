@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
 
+Estou estudando no Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para a minha organização compartilhamento dos meus projetos
 <!--
 **jacsonpredador/jacsonpredador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
